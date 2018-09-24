@@ -1,0 +1,20 @@
+:icons: font
+
+:toc: macro
+
+== General information
+Queue service
+
+== Prerequisites
+* JDK 8
+* Maven
+
+== Running Unit Tests
+[source]
+-----------------
+mvn test
+-----------------
+
+[dedication]
+== Credits
+CAUTION: Mariusz Dubielecki dubielecki.mariusz@gmail.com
